@@ -1,0 +1,157 @@
+[
+  {
+    "lat": 37.7749295,
+    "lng": -122.4194155,
+    "address": "San Francisco, California, United States",
+    "numberPeople": 10
+  },
+  {
+    "lat": 33.4941704,
+    "lng": -111.9260519,
+    "address": "Scottsdale, Arizona, United States",
+    "numberPeople": 7
+  },
+  {
+    "lat": 47.6062095,
+    "lng": -122.3320708,
+    "address": "Seattle, Washington, United States",
+    "numberPeople": 7
+  },
+  {
+    "lat": 40.7127753,
+    "lng": -74.0059728,
+    "address": "New York City, New York, United States",
+    "numberPeople": 8
+  },
+  {
+    "lat": 41.8781136,
+    "lng": -87.6297982,
+    "address": "Chicago, Illinois, United States",
+    "numberPeople": 1
+  },
+  {
+    "lat": 33.9519347,
+    "lng": -83.357567,
+    "address": "Athens, Georgia, United States",
+    "numberPeople": 1
+  },
+  {
+    "lat": 33.1983388,
+    "lng": -96.6389342,
+    "address": "McKinney, Texas, United States",
+    "numberPeople": 1
+  },
+  {
+    "lat": 33.6845673,
+    "lng": -117.8265049,
+    "address": "Irvine, California, United States",
+    "numberPeople": 1
+  },
+
+  {
+    "lat": 43.653226,
+    "lng": -79.3831843,
+    "address": "Toronto, Ontario, Canada",
+    "numberPeople": 2
+  },
+  {
+    "lat": 42.9849233,
+    "lng": -81.2452768,
+    "address": "London, Ontario, Canada",
+    "numberPeople": 1
+  },
+  {
+    "lat": 45.5016889,
+    "lng": -73.567256,
+    "address": "Montreal, Québec, Canada",
+    "numberPeople": 1
+  },
+  {
+    "lat": 44.6488,
+    "lng": -63.5752,
+    "address": "Halifax, Nova Scotia, Canada",
+    "numberPeople": 1
+  },
+
+  {
+    "lat": -23.5505199,
+    "lng": -46.63330939999999,
+    "address": "São Paulo, São Paulo, Brasil",
+    "numberPeople": 6
+  },
+  {
+    "lat": -25.4289541,
+    "lng": -49.267137,
+    "address": "Curitiba, Paraná, Brasil",
+    "numberPeople": 3
+  },
+  {
+    "lat": -16.4423996,
+    "lng": -51.1189651,
+    "address": "Iporá, Goiás, Brasil",
+    "numberPeople": 1
+  },
+  {
+    "lat": -20.58306,
+    "lng": -46.92194,
+    "address": "Cássia, Minas Gerais, Brasil",
+    "numberPeople": 1
+  },
+  {
+    "lat": -12.9777334,
+    "lng": -38.501648,
+    "address": "Salvador, Bahia, Brasil",
+    "numberPeople": 1
+  },
+  {
+    "lat": -15.7975,
+    "lng": -47.8919,
+    "address": "Brasília, Distrito Federal, Brasil",
+    "numberPeople": 1
+  },
+  {
+    "lat": -19.9191,
+    "lng": -43.9387,
+    "address": "Belo Horizonte, Minas Gerais, Brasil",
+    "numberPeople": 2
+  },
+  {
+    "lat": -22.9068467,
+    "lng": -43.1728965,
+    "address": "Rio de Janeiro, Rio de Janeiro, Brasil",
+    "numberPeople": 1
+  },
+  {
+    "lat": -7.1188,
+    "lng": -34.8814,
+    "address": "João Pessoa, Paraíba, Brasil",
+    "numberPeople": 1
+  },
+
+  {
+    "lat": -34.7705,
+    "lng": -55.7589,
+    "address": "Montevideo, Departamento de Montevideo, Uruguay",
+    "numberPeople": 1
+  },
+  {
+    "lat": -34.7705,
+    "lng": -55.7589,
+    "address": "Paysandú, Departamento de Paysandú, Uruguay",
+    "numberPeople": 1
+  },
+
+  {
+    "lat": -0.21495,
+    "lng": -78.513199,
+    "address": "Quito, Pichincha, Ecuador",
+    "numberPeople": 1
+  },
+
+  {
+    "lat": 31.865858,
+    "lng": -116.607681,
+    "address": "Ensenada, Baja California, México",
+    "numberPeople": 1
+  }
+]
