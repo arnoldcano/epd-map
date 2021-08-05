@@ -153,5 +153,13 @@
     "lng": -116.607681,
     "address": "Ensenada, Baja California, México",
     "numberPeople": 1
-  }
+  }, 
+  
+  {
+    "lat": 35.9940,
+    "lng": -78.8986,
+    "address": "Durham, NC, United States",
+    "numberPeople": 1
+  }, 
+  
 ]
